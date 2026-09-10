@@ -1,0 +1,6 @@
+{
+  "name": "ARIA - Voice-Native AI Concierge",
+  "description": "Voice-native AI concierge for premium wellness featuring real-time conversational interruption, monotonic turn fencing, and Rime TTS recovery.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
